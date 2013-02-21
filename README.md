@@ -1,7 +1,8 @@
-jQuery-on-click-out-off
+jQuery on click out / off
 =======================
 
-jQuery plugin, that triggers a callback when the element has been clicked off of. 
+jQuery plugin, that triggers a callback when the element has been clicked out or off of. 
+
 
 Example Usage:
  
